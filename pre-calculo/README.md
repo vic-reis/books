@@ -1,2 +1,2 @@
-- [X] capitulo 1
-- []
+- [X] Cap. 1 - Conjunto
+- <details><summary> ... </summary> </details> 
